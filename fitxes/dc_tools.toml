@@ -1,0 +1,31 @@
+id = "dc_tools"
+version = "0.3.9"
+author = "moominot"
+author_url = "https://github.com/moominot"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
+
+# The release asset, under the release's tag.
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.9/dc_tools-0.3.9.zip"
+sha256 = "cf6c7bd4a164e9a228eb31d53eaec6466d2c4399e48ff2e788c2a0e7d1922787"
+
+ingetrazo = "0.6.2.1"
+
+tags = ["architecture", "productivity"]
+
+[name]
+ca = "Components dinàmics: opcions i fórmules"
+es = "Componentes dinámicos: opciones y fórmulas"
+en = "Dynamic components: options and formulas"
+pt = "Componentes dinâmicos: opções e fórmulas"
+
+[summary]
+ca = "Canvia les opcions d'un component dinàmic i redibuixa'l, o fes dinàmics els teus components i escriu-ne els atributs i les fórmules."
+es = "Cambia las opciones de un componente dinámico y redibújalo (copias, piezas ocultas, medidas, giros, materiales), o haz dinámicos tus componentes y escribe sus atributos y fórmulas. Un botón ? explica cada función."
+en = "Change a dynamic component's options and redraw it (copies, hidden parts, sizes, rotations, materials), or make your own components dynamic and write their attributes and formulas. A ? button explains every function."
+pt = "Mude as opções de um componente dinâmico e redesenhe-o (cópias, peças ocultas, medidas, rotações, materiais), ou torne seus componentes dinâmicos e escreva atributos e fórmulas. Um botão ? explica cada função."
+
+[description]
+en = "Component Options shows a dynamic component's options and redraws it by the .skp format's rules: copies, hidden parts, sizes, positions, rotations, materials and LenX/LenY/LenZ resizing, checked part by part against the original program's redraw. Component Attributes makes a group dynamic and edits attributes and formulas per part, also inside an open group, where a nested part sees its parent (Parent!LenX). IngeTrazo's Scale tool shows only the handles a component's ScaleTool attribute allows, and a scaled dynamic component is redrawn at its new size instead of stretched. A dynamic component can cut its own hole in a wall: choose the side flush with it (Cut plane), an arrow shows the way the hole is cut and the cut can be flipped. A component becomes dynamic on its first attribute. Every change is one undo step. Works on components imported with «Parametric components from .skp» or made here; needs no .skp file. Formula interpreter from d1rty-pixel's Dynamic Components (no eval, with limits on size and depth)."

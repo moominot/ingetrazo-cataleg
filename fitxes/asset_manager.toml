@@ -1,0 +1,31 @@
+id = "asset_manager"
+version = "0.8.0"
+author = "moominot"
+author_url = "https://github.com/moominot"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/moominot/ingetrazo-skp-dc-import"
+
+# The release asset, under the release's tag.
+download = "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.8.0/asset_manager-0.8.0.zip"
+sha256 = "cb7ac191e022a011d9510cfd382fe14f0897b96a1d67279fda5fc9dfe8c507e5"
+
+ingetrazo = "0.6.2.1"
+
+tags = ["productivity", "architecture", "rendering"]
+
+[name]
+ca = "Biblioteca de Render Studio"
+es = "Render Studio Library"
+en = "Render Studio Library"
+pt = "Render Studio Library"
+
+[summary]
+ca = "Components i materials del dibuix, el teu catàleg de models, materials i fons 360°, recursos gratuïts de Poly Haven i ambientCG, i proxies."
+es = "Un buen compañero de Render Studio: modelos, materiales y fondos 360° del dibujo, de tu catálogo (con categorías) y de Poly Haven y ambientCG, gratis; guardar, exportar y proxies."
+en = "A good companion of Render Studio: models, materials and 360° backgrounds from the drawing, your catalog (with categories) and the free Poly Haven and ambientCG; save, export and proxies."
+pt = "Um bom companheiro do Render Studio: modelos, materiais e fundos 360° do desenho, do seu catálogo (com categorias) e do Poly Haven e ambientCG, grátis; salvar, exportar e proxies."
+
+[description]
+en = "A good companion of Render Studio: the models, materials and backgrounds to render with, in one place (it works on its own too). A tray tab with three pages, Models, Materials and Backgrounds, each with a source box: the drawing, your catalog or one of its folders, or the CC0 assets of Poly Haven and ambientCG. Categories (any number per item) with a filter; online assets bring theirs. Insert by button, double-click or dragging: a model follows the cursor, a material loads the paint bucket, a background becomes Render Studio's 360° background. Save to catalog keeps a material of the drawing (as IngeTrazo's .igmat when it can), a component (as an .igz) or an online asset; Export writes an item as files of its own. The catalog reads .igz, .skp, .gltf and .glb models (also inside .zip files), material sets downloaded from any site, .igmat, .skm, .pbr.json and .rsmat materials, and .hdr and .exr backgrounds; folders are watched in real time or read again with Update. On the drawing's components, from the right-click menu: select all, replace all, edit, or mark as a stand-in (translucent, left out of the render). Proxies: Insert as proxy puts in a light envelope while the full model is kept in an .igz next to the drawing; right-click: Make proxy, Show original, Show proxy, Open original in a new tab. A .skp keeps its components and dynamic data with the «Parametric components from .skp» extension. Requests only reach each site's own servers over https; downloads are checked, cached and reused."

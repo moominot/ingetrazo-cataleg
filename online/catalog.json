@@ -1,0 +1,111 @@
+{
+ "format": 1,
+ "extensions": [
+  {
+   "id": "asset_manager",
+   "version": "0.8.0",
+   "author": "moominot",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/asset_manager-v0.8.0/asset_manager-0.8.0.zip",
+   "sha256": "cb7ac191e022a011d9510cfd382fe14f0897b96a1d67279fda5fc9dfe8c507e5",
+   "ingetrazo": "0.6.2.1",
+   "name": {
+    "ca": "Biblioteca de Render Studio",
+    "es": "Render Studio Library",
+    "en": "Render Studio Library",
+    "pt": "Render Studio Library"
+   },
+   "summary": {
+    "ca": "Components i materials del dibuix, el teu catàleg de models, materials i fons 360°, recursos gratuïts de Poly Haven i ambientCG, i proxies.",
+    "es": "Un buen compañero de Render Studio: modelos, materiales y fondos 360° del dibujo, de tu catálogo (con categorías) y de Poly Haven y ambientCG, gratis; guardar, exportar y proxies.",
+    "en": "A good companion of Render Studio: models, materials and 360° backgrounds from the drawing, your catalog (with categories) and the free Poly Haven and ambientCG; save, export and proxies.",
+    "pt": "Um bom companheiro do Render Studio: modelos, materiais e fundos 360° do desenho, do seu catálogo (com categorias) e do Poly Haven e ambientCG, grátis; salvar, exportar e proxies."
+   },
+   "tags": [
+    "productivity",
+    "architecture",
+    "rendering"
+   ]
+  },
+  {
+   "id": "dc_tools",
+   "version": "0.3.9",
+   "author": "moominot",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/dc_tools-v0.3.9/dc_tools-0.3.9.zip",
+   "sha256": "cf6c7bd4a164e9a228eb31d53eaec6466d2c4399e48ff2e788c2a0e7d1922787",
+   "ingetrazo": "0.6.2.1",
+   "name": {
+    "ca": "Components dinàmics: opcions i fórmules",
+    "es": "Componentes dinámicos: opciones y fórmulas",
+    "en": "Dynamic components: options and formulas",
+    "pt": "Componentes dinâmicos: opções e fórmulas"
+   },
+   "summary": {
+    "ca": "Canvia les opcions d'un component dinàmic i redibuixa'l, o fes dinàmics els teus components i escriu-ne els atributs i les fórmules.",
+    "es": "Cambia las opciones de un componente dinámico y redibújalo (copias, piezas ocultas, medidas, giros, materiales), o haz dinámicos tus componentes y escribe sus atributos y fórmulas. Un botón ? explica cada función.",
+    "en": "Change a dynamic component's options and redraw it (copies, hidden parts, sizes, rotations, materials), or make your own components dynamic and write their attributes and formulas. A ? button explains every function.",
+    "pt": "Mude as opções de um componente dinâmico e redesenhe-o (cópias, peças ocultas, medidas, rotações, materiais), ou torne seus componentes dinâmicos e escreva atributos e fórmulas. Um botão ? explica cada função."
+   },
+   "tags": [
+    "architecture",
+    "productivity"
+   ]
+  },
+  {
+   "id": "render_studio",
+   "version": "0.29.0",
+   "author": "moominot",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/moominot/ingetrazo-render-studio",
+   "download": "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.29.0/render_studio-0.29.0.zip",
+   "sha256": "60a9d09adaacca1a2401c2a30008f19de4ed0e3bd999825f99f10d5e47b02691",
+   "ingetrazo": "0.6.2.1",
+   "name": {
+    "ca": "Render Studio",
+    "es": "Render Studio",
+    "en": "Render Studio",
+    "pt": "Render Studio"
+   },
+   "summary": {
+    "ca": "Renders fotogràfics: aspectes, estils, panoràmiques planes i 360°, cel, terra i horitzó, editors de llums i materials, previsualització en viu i escenes en lot.",
+    "es": "La potencia de Blender con la sencillez de IngeTrazo: imágenes impresionantes en 3 clics y navegación fotorrealista en vivo. Ambientes, estilos, secciones y panorámicas 360°.",
+    "en": "The power of Blender with the simplicity of IngeTrazo: stunning images in 3 clicks and live photorealistic navigation. Light presets, styles, sections and 360° panoramas.",
+    "pt": "O poder do Blender com a simplicidade do IngeTrazo: imagens impressionantes em 3 cliques e navegação fotorrealista ao vivo. Ambientes, estilos, cortes e panoramas 360°."
+   },
+   "tags": [
+    "rendering",
+    "architecture"
+   ]
+  },
+  {
+   "id": "skp_dc_import",
+   "version": "0.8.1",
+   "author": "moominot",
+   "license": "GPL-3.0-or-later",
+   "repository": "https://github.com/moominot/ingetrazo-skp-dc-import",
+   "download": "https://github.com/moominot/ingetrazo-skp-dc-import/releases/download/skp_dc_import-v0.8.1/skp_dc_import-0.8.1.zip",
+   "sha256": "b05d254af75767c6f03f91f1687ccac86fa9cd3117745ff14769d514cd90d1f7",
+   "ingetrazo": "0.6.2.1",
+   "name": {
+    "ca": "Components paramètrics des de .skp",
+    "es": "Componentes paramétricos desde .skp",
+    "en": "Parametric components from .skp",
+    "pt": "Componentes paramétricos de .skp"
+   },
+   "summary": {
+    "ca": "Obre fitxers .skp conservant els components i les dades dinàmiques de cada peça, i torna a desar el dibuix en .skp.",
+    "es": "Abre archivos .skp conservando sus componentes y los atributos, fórmulas y opciones dinámicos de cada pieza, y vuelve a guardar el dibujo en .skp con ellos. Se editan con «Componentes dinámicos: opciones y fórmulas».",
+    "en": "Open .skp files keeping their components and each part's dynamic attributes, formulas and options, and save the drawing back to .skp with them. Edit them with «Dynamic components: options and formulas».",
+    "pt": "Abre arquivos .skp mantendo seus componentes e os atributos, fórmulas e opções dinâmicos de cada peça, e salva o desenho de volta em .skp com eles. Edite-os com «Componentes dinâmicos: opções e fórmulas»."
+   },
+   "tags": [
+    "import-export",
+    "architecture",
+    "productivity"
+   ]
+  }
+ ]
+}

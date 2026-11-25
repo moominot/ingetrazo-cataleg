@@ -1,0 +1,31 @@
+id = "render_studio"
+version = "0.29.0"
+author = "moominot"
+author_url = "https://github.com/moominot"
+
+license = "GPL-3.0-or-later"
+
+repository = "https://github.com/moominot/ingetrazo-render-studio"
+
+# The release asset, under the release's tag.
+download = "https://github.com/moominot/ingetrazo-render-studio/releases/download/v0.29.0/render_studio-0.29.0.zip"
+sha256 = "60a9d09adaacca1a2401c2a30008f19de4ed0e3bd999825f99f10d5e47b02691"
+
+ingetrazo = "0.6.2.1"
+
+tags = ["rendering", "architecture"]
+
+[name]
+ca = "Render Studio"
+es = "Render Studio"
+en = "Render Studio"
+pt = "Render Studio"
+
+[summary]
+ca = "Renders fotogràfics: aspectes, estils, panoràmiques planes i 360°, cel, terra i horitzó, editors de llums i materials, previsualització en viu i escenes en lot."
+es = "La potencia de Blender con la sencillez de IngeTrazo: imágenes impresionantes en 3 clics y navegación fotorrealista en vivo. Ambientes, estilos, secciones y panorámicas 360°."
+en = "The power of Blender with the simplicity of IngeTrazo: stunning images in 3 clicks and live photorealistic navigation. Light presets, styles, sections and 360° panoramas."
+pt = "O poder do Blender com a simplicidade do IngeTrazo: imagens impressionantes em 3 cliques e navegação fotorrealista ao vivo. Ambientes, estilos, cortes e panoramas 360°."
+
+[description]
+en = "The power of Blender with the simplicity of IngeTrazo: make stunning images in 3 clicks, and move around a live photorealistic view. It drives the Blender that IngeTrazo's Render tab already uses, with IngeTrazo's own scene script plus a look on top. A panel of cards (Main, Style, Environment, Section, Output), and an Expert mode with every setting, a search box and an eye to choose what each page shows. Five light buttons (sunny, cloudy, golden hour, night, interior), each with its exposure metered, AgX and white balance, and a gallery of presets with thumbnails. Style: surface (real materials, one colour or material, none, light analysis in lux), outline and finish (sketch, watercolour, a paper or canvas texture), which combine. Environment: sun by place and date, clouds and stars; shadows as rendered, in a colour or hatched; a background that is the sky, a 360° panorama, a fixed picture, a plain colour or transparent; generated ground with any material (grass included), horizon and fog. Lights and materials open in windows of their own: point, spot, area and sun lights, IES profiles, a material editor with types and maps, and a cube preview. Section: the section plane or section box cuts the render, with a cap from the drawing's textures, a flat colour or a hatching, and its outline. Output: flat or 360° panorama, two-point perspective, size, PNG, JPEG, 16-bit PNG or TIFF, OpenEXR, and the ticked scenes in bulk. A toolbar and a live preview window where the mouse moves the camera; Automatic engine (Cycles with a graphics card, else EEVEE). Proxies render as their full models; what is hidden stays out of the render."
